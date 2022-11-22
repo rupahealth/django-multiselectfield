@@ -1,3 +1,7 @@
+----- NOTICE -----
+==================
+This fork exists to support Django 4.1. Once `this PR https://github.com/goinnn/django-multiselectfield/pull/132` has been merged into the main repo, this repo can be deleted, and the dependency can be switched back. 
+
 django-multiselectfield
 =======================
 
